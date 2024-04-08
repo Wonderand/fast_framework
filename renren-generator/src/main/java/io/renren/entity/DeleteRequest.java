@@ -1,0 +1,1 @@
+package io.renren.entity;public class DeleteRequest {    private String id;    // getter and setter methods    public String getId() {        return id;    }    public void setId(String id) {        this.id = id;    }}
